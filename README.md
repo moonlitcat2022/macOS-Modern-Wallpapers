@@ -1,9 +1,9 @@
-# macOS X Wallpapers
+# macOS Wallpapers
 WIP!
 
-An archive of every macOS X wallpaper officially released by Apple
+An archive of every macOS wallpaper officially released by Apple
 
-This repository aims to preserve every macOS X wallpaper released by Apple, all the way from macOS 10.0 up to (currently) macOS 15 Sequoia.
+This repository aims to preserve every macOS wallpaper released by Apple, all the way from macOS 10.0 up to (currently) macOS 15 Sequoia.
 Wallpapers are sorted by os version.
 
 All wallpapers are extracted directly from `/System/Desktop Pictures` and have not been touched in any way.
