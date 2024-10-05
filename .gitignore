@@ -1,0 +1,5 @@
+src/
+*.tar.bz2
+.DS_Store
+macOS*/
+!macOS/
